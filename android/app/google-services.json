@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971310272861",
+    "project_id": "first-app-d6c86",
+    "storage_bucket": "first-app-d6c86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971310272861:android:aac03a489103e151b058b4",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoafKKclg-U6AGdg6I7cNVvtGt6gqslWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971310272861:android:5dbda42029f64c14b058b4",
+        "android_client_info": {
+          "package_name": "com.example.daftar_karyawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoafKKclg-U6AGdg6I7cNVvtGt6gqslWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
